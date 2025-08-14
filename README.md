@@ -1,12 +1,12 @@
 # Testament
 All testing Brainstorming, Application Usage, Tools and Implementations
 
-📌 Overview
+ Overview
 
 Testament is a hybrid QA automation portfolio showcasing UI automation, API testing, and framework implementations using Selenium and Playwright.
 It demonstrates real-world test strategies, CI/CD integration, and reporting capabilities for professional-grade testing workflows.
 
-🎯 Objectives
+ Objectives
 
 Show proficiency in Selenium and Playwright for UI testing.
 
@@ -20,7 +20,7 @@ Provide interactive reports for stakeholders.
 
 Implement CI/CD pipelines for continuous testing.
 
-🛠️ Tech Stack
+ Tech Stack
 Category	Tools
 UI Automation	Selenium WebDriver, Playwright
 Language	Java (Selenium), JavaScript/TypeScript (Playwright)
