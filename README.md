@@ -202,12 +202,13 @@ Post-mortem Notes
 
 📬 Contact
 
-Author: Jerry (Anshuman Prasad Hazarika)
+Author: (Anshuman Prasad Hazarika)
 
-LinkedIn: Your LinkedIn
+LinkedIn:
 
-GitHub: Your GitHub
+GitHub: Anshu Man
 
-Email:
+Email: ahazarika52@gmail.com
+
 
 
